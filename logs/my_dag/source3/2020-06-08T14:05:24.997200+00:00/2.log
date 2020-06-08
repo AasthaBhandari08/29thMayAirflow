@@ -1,0 +1,23 @@
+[2020-06-08 19:43:29,065] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source3 2020-06-08T14:05:24.997200+00:00 [queued]>
+[2020-06-08 19:43:29,075] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source3 2020-06-08T14:05:24.997200+00:00 [queued]>
+[2020-06-08 19:43:29,075] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 19:43:29,075] {taskinstance.py:880} INFO - Starting attempt 2 of 2
+[2020-06-08 19:43:29,075] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 19:43:29,091] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): source3> on 2020-06-08T14:05:24.997200+00:00
+[2020-06-08 19:43:29,094] {standard_task_runner.py:53} INFO - Started process 13856 to run task
+[2020-06-08 19:43:29,139] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: my_dag.source3 2020-06-08T14:05:24.997200+00:00 [running]> nineleaps-ThinkPad-E470
+[2020-06-08 19:43:29,211] {taskinstance.py:1145} ERROR - unsupported operand type(s) for /: 'NoneType' and 'float'
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/taskinstance.py", line 983, in _run_raw_task
+    result = task_copy.execute(context=context)
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/operators/python_operator.py", line 113, in execute
+    return_value = self.execute_callable()
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/operators/python_operator.py", line 118, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 87, in percentage_upload
+    print("percentage = {}".format((v1 / total_rows) * 100))
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'float'
+[2020-06-08 19:43:29,212] {taskinstance.py:1187} INFO - All retries failed; marking task as FAILED.dag_id=my_dag, task_id=source3, execution_date=20200608T140524, start_date=20200608T141329, end_date=20200608T141329
+[2020-06-08 19:43:39,052] {logging_mixin.py:112} INFO - [2020-06-08 19:43:39,052] {local_task_job.py:103} INFO - Task exited with return code 1

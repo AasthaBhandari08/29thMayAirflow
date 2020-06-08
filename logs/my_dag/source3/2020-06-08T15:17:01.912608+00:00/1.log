@@ -1,0 +1,15 @@
+[2020-06-08 20:54:46,732] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source3 2020-06-08T15:17:01.912608+00:00 [queued]>
+[2020-06-08 20:54:46,740] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source3 2020-06-08T15:17:01.912608+00:00 [queued]>
+[2020-06-08 20:54:46,741] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 20:54:46,741] {taskinstance.py:880} INFO - Starting attempt 1 of 2
+[2020-06-08 20:54:46,741] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 20:54:46,760] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): source3> on 2020-06-08T15:17:01.912608+00:00
+[2020-06-08 20:54:46,764] {standard_task_runner.py:53} INFO - Started process 19926 to run task
+[2020-06-08 20:54:46,829] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: my_dag.source3 2020-06-08T15:17:01.912608+00:00 [running]> nineleaps-ThinkPad-E470
+[2020-06-08 20:54:46,905] {logging_mixin.py:112} INFO - (<type 'int'>, 37, 38.0)
+[2020-06-08 20:54:46,905] {logging_mixin.py:112} INFO - percentage = 100.0
+[2020-06-08 20:54:46,905] {python_operator.py:114} INFO - Done. Returned value was: None
+[2020-06-08 20:54:46,908] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=my_dag, task_id=source3, execution_date=20200608T151701, start_date=20200608T152446, end_date=20200608T152446
+[2020-06-08 20:54:56,723] {logging_mixin.py:112} INFO - [2020-06-08 20:54:56,722] {local_task_job.py:103} INFO - Task exited with return code 0

@@ -1,0 +1,16 @@
+[2020-06-08 19:28:21,148] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source2 2020-06-08T13:57:00.338960+00:00 [queued]>
+[2020-06-08 19:28:21,161] {taskinstance.py:669} INFO - Dependencies all met for <TaskInstance: my_dag.source2 2020-06-08T13:57:00.338960+00:00 [queued]>
+[2020-06-08 19:28:21,161] {taskinstance.py:879} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 19:28:21,161] {taskinstance.py:880} INFO - Starting attempt 1 of 2
+[2020-06-08 19:28:21,161] {taskinstance.py:881} INFO - 
+--------------------------------------------------------------------------------
+[2020-06-08 19:28:21,188] {taskinstance.py:900} INFO - Executing <Task(PythonOperator): source2> on 2020-06-08T13:57:00.338960+00:00
+[2020-06-08 19:28:21,193] {standard_task_runner.py:53} INFO - Started process 12878 to run task
+[2020-06-08 19:28:21,255] {logging_mixin.py:112} INFO - Running %s on host %s <TaskInstance: my_dag.source2 2020-06-08T13:57:00.338960+00:00 [running]> nineleaps-ThinkPad-E470
+[2020-06-08 19:28:21,336] {logging_mixin.py:112} WARNING - /home/nineleaps/airflow/dags/airflow_tasks.py:55: PendingDeprecationWarning: Client.dataset is deprecated and will be removed in a future version. Use a string like 'my_project.my_dataset' or a cloud.google.bigquery.DatasetReference object, instead.
+  dataset_ref = client.dataset(DATA_SET_ID)
+[2020-06-08 19:28:28,820] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 19:28:28,820] {python_operator.py:114} INFO - Done. Returned value was: 37
+[2020-06-08 19:28:28,860] {taskinstance.py:1065} INFO - Marking task as SUCCESS.dag_id=my_dag, task_id=source2, execution_date=20200608T135700, start_date=20200608T135821, end_date=20200608T135828
+[2020-06-08 19:28:31,123] {logging_mixin.py:112} INFO - [2020-06-08 19:28:31,122] {local_task_job.py:103} INFO - Task exited with return code 0

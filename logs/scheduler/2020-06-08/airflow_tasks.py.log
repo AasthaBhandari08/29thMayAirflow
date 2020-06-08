@@ -1,0 +1,839 @@
+[2020-06-08 18:53:12,686] {scheduler_job.py:154} INFO - Started process (PID=10298) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:53:12,696] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:53:12,698] {logging_mixin.py:112} INFO - [2020-06-08 18:53:12,697] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:53:13,066] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:53:13,070] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.385 seconds
+[2020-06-08 18:54:04,724] {scheduler_job.py:154} INFO - Started process (PID=10357) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:04,727] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:54:04,727] {logging_mixin.py:112} INFO - [2020-06-08 18:54:04,727] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:05,036] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:05,039] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.315 seconds
+[2020-06-08 18:54:56,796] {scheduler_job.py:154} INFO - Started process (PID=10477) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:56,814] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:54:56,815] {logging_mixin.py:112} INFO - [2020-06-08 18:54:56,815] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:57,127] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:54:57,131] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.335 seconds
+[2020-06-08 18:55:48,865] {scheduler_job.py:154} INFO - Started process (PID=10563) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:55:48,873] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:55:48,874] {logging_mixin.py:112} INFO - [2020-06-08 18:55:48,873] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:55:49,169] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:55:49,172] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.307 seconds
+[2020-06-08 18:56:40,909] {scheduler_job.py:154} INFO - Started process (PID=10629) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:56:40,912] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:56:40,912] {logging_mixin.py:112} INFO - [2020-06-08 18:56:40,912] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:56:41,197] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:56:41,200] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.291 seconds
+[2020-06-08 18:57:32,985] {scheduler_job.py:154} INFO - Started process (PID=10720) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:57:32,992] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:57:32,993] {logging_mixin.py:112} INFO - [2020-06-08 18:57:32,992] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:57:33,280] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:57:33,283] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.299 seconds
+[2020-06-08 18:58:25,028] {scheduler_job.py:154} INFO - Started process (PID=10794) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:58:25,030] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:58:25,031] {logging_mixin.py:112} INFO - [2020-06-08 18:58:25,031] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:58:25,308] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:58:25,311] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.283 seconds
+[2020-06-08 18:59:17,101] {scheduler_job.py:154} INFO - Started process (PID=10881) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:59:17,106] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 18:59:17,106] {logging_mixin.py:112} INFO - [2020-06-08 18:59:17,106] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:59:25,359] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 18:59:25,360] {logging_mixin.py:112} INFO - 100.0
+[2020-06-08 18:59:25,362] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 18:59:25,376] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 8.275 seconds
+[2020-06-08 19:00:09,162] {scheduler_job.py:154} INFO - Started process (PID=11031) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:00:09,170] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:00:09,171] {logging_mixin.py:112} INFO - [2020-06-08 19:00:09,171] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:00:15,946] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 19:00:15,946] {logging_mixin.py:112} INFO - 100.0
+[2020-06-08 19:00:15,948] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:00:15,960] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 6.799 seconds
+[2020-06-08 19:01:01,224] {scheduler_job.py:154} INFO - Started process (PID=11122) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:01:01,227] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:01:01,228] {logging_mixin.py:112} INFO - [2020-06-08 19:01:01,228] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:01:09,396] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 19:01:09,396] {logging_mixin.py:112} INFO - 100.0
+[2020-06-08 19:01:09,397] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:01:09,401] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 8.176 seconds
+[2020-06-08 19:01:53,289] {scheduler_job.py:154} INFO - Started process (PID=11205) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:01:53,292] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:01:53,292] {logging_mixin.py:112} INFO - [2020-06-08 19:01:53,292] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:02:00,769] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 19:02:00,770] {logging_mixin.py:112} INFO - 100.0
+[2020-06-08 19:02:00,771] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:02:00,783] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 7.493 seconds
+[2020-06-08 19:02:45,321] {scheduler_job.py:154} INFO - Started process (PID=11286) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:02:45,324] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:02:45,324] {logging_mixin.py:112} INFO - [2020-06-08 19:02:45,324] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:02:52,904] {logging_mixin.py:112} INFO - Loaded 37 rows into covid19:covid_data.
+[2020-06-08 19:02:52,905] {logging_mixin.py:112} INFO - 100.0
+[2020-06-08 19:02:52,905] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:02:52,909] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 7.588 seconds
+[2020-06-08 19:03:37,389] {scheduler_job.py:154} INFO - Started process (PID=11334) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:03:37,393] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:03:37,393] {logging_mixin.py:112} INFO - [2020-06-08 19:03:37,393] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:03:37,708] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:03:37,714] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.325 seconds
+[2020-06-08 19:04:40,271] {scheduler_job.py:154} INFO - Started process (PID=11404) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:04:40,281] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:04:40,283] {logging_mixin.py:112} INFO - [2020-06-08 19:04:40,282] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:04:40,623] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:04:40,626] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.355 seconds
+[2020-06-08 19:05:42,864] {scheduler_job.py:154} INFO - Started process (PID=11461) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:05:42,879] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:05:42,881] {logging_mixin.py:112} INFO - [2020-06-08 19:05:42,880] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:05:43,372] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:05:43,375] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.511 seconds
+[2020-06-08 19:06:45,521] {scheduler_job.py:154} INFO - Started process (PID=11512) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:06:45,525] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:06:45,525] {logging_mixin.py:112} INFO - [2020-06-08 19:06:45,525] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:06:45,831] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:06:45,834] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.313 seconds
+[2020-06-08 19:07:37,589] {scheduler_job.py:154} INFO - Started process (PID=11556) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:07:37,593] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:07:37,594] {logging_mixin.py:112} INFO - [2020-06-08 19:07:37,593] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:07:37,895] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:07:37,898] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.309 seconds
+[2020-06-08 19:08:29,656] {scheduler_job.py:154} INFO - Started process (PID=11607) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:08:29,659] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:08:29,659] {logging_mixin.py:112} INFO - [2020-06-08 19:08:29,659] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:08:29,938] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:08:29,941] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.285 seconds
+[2020-06-08 19:09:21,762] {scheduler_job.py:154} INFO - Started process (PID=11656) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:09:21,766] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:09:21,767] {logging_mixin.py:112} INFO - [2020-06-08 19:09:21,767] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:09:22,092] {logging_mixin.py:112} INFO - [2020-06-08 19:09:22,091] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 81, in percentage_upload
+    print (((total_rows-1)/rows_uploaded)*100)
+ZeroDivisionError: float division by zero
+[2020-06-08 19:09:22,092] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:09:22,107] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.346 seconds
+[2020-06-08 19:10:13,788] {scheduler_job.py:154} INFO - Started process (PID=11741) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:10:13,791] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:10:13,791] {logging_mixin.py:112} INFO - [2020-06-08 19:10:13,791] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:10:14,107] {logging_mixin.py:112} INFO - [2020-06-08 19:10:14,106] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 81, in percentage_upload
+    print (((total_rows-1)/rows_uploaded)*100)
+ZeroDivisionError: float division by zero
+[2020-06-08 19:10:14,107] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:10:14,129] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.341 seconds
+[2020-06-08 19:11:05,853] {scheduler_job.py:154} INFO - Started process (PID=11800) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:11:05,858] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:11:05,859] {logging_mixin.py:112} INFO - [2020-06-08 19:11:05,859] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:11:06,274] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:11:06,296] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.443 seconds
+[2020-06-08 19:12:08,429] {scheduler_job.py:154} INFO - Started process (PID=11856) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:12:08,437] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:12:08,437] {logging_mixin.py:112} INFO - [2020-06-08 19:12:08,437] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:12:08,714] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:12:08,717] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.289 seconds
+[2020-06-08 19:13:11,124] {scheduler_job.py:154} INFO - Started process (PID=11917) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:13:11,143] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:13:11,144] {logging_mixin.py:112} INFO - [2020-06-08 19:13:11,144] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:13:11,600] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:13:11,603] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.480 seconds
+[2020-06-08 19:14:13,599] {scheduler_job.py:154} INFO - Started process (PID=11967) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:14:13,612] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:14:13,614] {logging_mixin.py:112} INFO - [2020-06-08 19:14:13,613] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:14:13,920] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:14:13,924] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.325 seconds
+[2020-06-08 19:15:16,210] {scheduler_job.py:154} INFO - Started process (PID=12039) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:15:16,218] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:15:16,219] {logging_mixin.py:112} INFO - [2020-06-08 19:15:16,219] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:15:16,534] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:15:16,537] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.327 seconds
+[2020-06-08 19:16:08,264] {scheduler_job.py:154} INFO - Started process (PID=12074) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:16:08,266] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:16:08,267] {logging_mixin.py:112} INFO - [2020-06-08 19:16:08,267] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:16:08,543] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:16:08,546] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.282 seconds
+[2020-06-08 19:17:00,321] {scheduler_job.py:154} INFO - Started process (PID=12133) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:00,325] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:17:00,325] {logging_mixin.py:112} INFO - [2020-06-08 19:17:00,325] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:00,614] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:00,617] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.296 seconds
+[2020-06-08 19:17:52,396] {scheduler_job.py:154} INFO - Started process (PID=12189) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:52,406] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:17:52,407] {logging_mixin.py:112} INFO - [2020-06-08 19:17:52,407] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:52,730] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:17:52,733] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.337 seconds
+[2020-06-08 19:18:55,153] {scheduler_job.py:154} INFO - Started process (PID=12267) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:18:55,165] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:18:55,166] {logging_mixin.py:112} INFO - [2020-06-08 19:18:55,165] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:18:55,460] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:18:55,464] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.311 seconds
+[2020-06-08 19:19:57,590] {scheduler_job.py:154} INFO - Started process (PID=12337) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:19:57,594] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:19:57,595] {logging_mixin.py:112} INFO - [2020-06-08 19:19:57,595] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:19:57,920] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:19:57,923] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.333 seconds
+[2020-06-08 19:21:22,611] {scheduler_job.py:154} INFO - Started process (PID=12433) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:21:22,629] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:21:22,630] {logging_mixin.py:112} INFO - [2020-06-08 19:21:22,630] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:21:22,971] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:21:22,974] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.363 seconds
+[2020-06-08 19:22:25,235] {scheduler_job.py:154} INFO - Started process (PID=12485) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:22:25,246] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:22:25,247] {logging_mixin.py:112} INFO - [2020-06-08 19:22:25,247] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:22:25,591] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:22:25,594] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.359 seconds
+[2020-06-08 19:23:28,192] {scheduler_job.py:154} INFO - Started process (PID=12537) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:23:28,200] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:23:28,201] {logging_mixin.py:112} INFO - [2020-06-08 19:23:28,201] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:23:28,484] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:23:28,487] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.295 seconds
+[2020-06-08 19:24:20,258] {scheduler_job.py:154} INFO - Started process (PID=12592) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:24:20,269] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:24:20,270] {logging_mixin.py:112} INFO - [2020-06-08 19:24:20,270] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:24:20,558] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:24:20,561] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.304 seconds
+[2020-06-08 19:25:12,312] {scheduler_job.py:154} INFO - Started process (PID=12670) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:25:12,314] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:25:12,315] {logging_mixin.py:112} INFO - [2020-06-08 19:25:12,314] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:25:12,594] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:25:12,597] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.285 seconds
+[2020-06-08 19:26:04,391] {scheduler_job.py:154} INFO - Started process (PID=12722) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:26:04,398] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:26:04,399] {logging_mixin.py:112} INFO - [2020-06-08 19:26:04,399] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:26:04,683] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:26:04,686] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.295 seconds
+[2020-06-08 19:27:07,093] {scheduler_job.py:154} INFO - Started process (PID=12793) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:27:07,106] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:27:07,108] {logging_mixin.py:112} INFO - [2020-06-08 19:27:07,107] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:27:07,447] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:27:07,450] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.357 seconds
+[2020-06-08 19:28:09,739] {scheduler_job.py:154} INFO - Started process (PID=12861) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:28:09,750] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:28:09,752] {logging_mixin.py:112} INFO - [2020-06-08 19:28:09,751] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:28:10,088] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:28:10,091] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.352 seconds
+[2020-06-08 19:29:24,044] {scheduler_job.py:154} INFO - Started process (PID=12941) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:29:24,049] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:29:24,049] {logging_mixin.py:112} INFO - [2020-06-08 19:29:24,049] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:29:24,499] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:29:24,506] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.462 seconds
+[2020-06-08 19:30:26,533] {scheduler_job.py:154} INFO - Started process (PID=12995) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:30:26,535] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:30:26,535] {logging_mixin.py:112} INFO - [2020-06-08 19:30:26,535] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:30:26,811] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:30:26,813] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.281 seconds
+[2020-06-08 19:31:18,605] {scheduler_job.py:154} INFO - Started process (PID=13029) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:31:18,611] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:31:18,612] {logging_mixin.py:112} INFO - [2020-06-08 19:31:18,612] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:31:18,924] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:31:18,927] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.322 seconds
+[2020-06-08 19:32:10,672] {scheduler_job.py:154} INFO - Started process (PID=13078) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:32:10,675] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:32:10,675] {logging_mixin.py:112} INFO - [2020-06-08 19:32:10,675] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:32:10,950] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:32:10,953] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.281 seconds
+[2020-06-08 19:33:02,764] {scheduler_job.py:154} INFO - Started process (PID=13120) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:02,769] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:33:02,770] {logging_mixin.py:112} INFO - [2020-06-08 19:33:02,769] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:03,057] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:03,060] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.296 seconds
+[2020-06-08 19:33:54,831] {scheduler_job.py:154} INFO - Started process (PID=13167) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:54,839] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:33:54,840] {logging_mixin.py:112} INFO - [2020-06-08 19:33:54,840] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:55,128] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:33:55,131] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.301 seconds
+[2020-06-08 19:34:46,887] {scheduler_job.py:154} INFO - Started process (PID=13208) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:34:46,890] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:34:46,890] {logging_mixin.py:112} INFO - [2020-06-08 19:34:46,890] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:34:47,178] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:34:47,181] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.294 seconds
+[2020-06-08 19:35:49,322] {scheduler_job.py:154} INFO - Started process (PID=13270) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:35:49,338] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:35:49,339] {logging_mixin.py:112} INFO - [2020-06-08 19:35:49,339] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:35:49,712] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:35:49,715] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.394 seconds
+[2020-06-08 19:36:51,950] {scheduler_job.py:154} INFO - Started process (PID=13321) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:36:51,962] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:36:51,963] {logging_mixin.py:112} INFO - [2020-06-08 19:36:51,962] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:36:52,300] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:36:52,304] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.355 seconds
+[2020-06-08 19:37:54,699] {scheduler_job.py:154} INFO - Started process (PID=13390) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:37:54,715] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:37:54,717] {logging_mixin.py:112} INFO - [2020-06-08 19:37:54,716] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:37:55,066] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:37:55,070] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.371 seconds
+[2020-06-08 19:38:57,522] {scheduler_job.py:154} INFO - Started process (PID=13479) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:38:57,531] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:38:57,533] {logging_mixin.py:112} INFO - [2020-06-08 19:38:57,532] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:38:57,872] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:38:57,875] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.354 seconds
+[2020-06-08 19:39:49,569] {scheduler_job.py:154} INFO - Started process (PID=13581) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:39:49,572] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:39:49,572] {logging_mixin.py:112} INFO - [2020-06-08 19:39:49,572] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:39:49,846] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:39:49,848] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.279 seconds
+[2020-06-08 19:40:41,631] {scheduler_job.py:154} INFO - Started process (PID=13692) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:40:41,634] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:40:41,634] {logging_mixin.py:112} INFO - [2020-06-08 19:40:41,634] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:40:41,914] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:40:41,917] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.286 seconds
+[2020-06-08 19:41:33,699] {scheduler_job.py:154} INFO - Started process (PID=13735) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:41:33,702] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:41:33,702] {logging_mixin.py:112} INFO - [2020-06-08 19:41:33,702] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:41:33,975] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:41:33,978] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.278 seconds
+[2020-06-08 19:42:25,769] {scheduler_job.py:154} INFO - Started process (PID=13779) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:42:25,782] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:42:25,783] {logging_mixin.py:112} INFO - [2020-06-08 19:42:25,783] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:42:26,130] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:42:26,133] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.364 seconds
+[2020-06-08 19:43:17,864] {scheduler_job.py:154} INFO - Started process (PID=13835) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:43:17,879] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:43:17,880] {logging_mixin.py:112} INFO - [2020-06-08 19:43:17,880] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:43:18,217] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:43:18,223] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.359 seconds
+[2020-06-08 19:44:20,276] {scheduler_job.py:154} INFO - Started process (PID=13918) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:44:20,279] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:44:20,280] {logging_mixin.py:112} INFO - [2020-06-08 19:44:20,280] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:44:20,581] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:44:20,584] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.309 seconds
+[2020-06-08 19:45:22,840] {scheduler_job.py:154} INFO - Started process (PID=14059) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:45:22,842] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:45:22,843] {logging_mixin.py:112} INFO - [2020-06-08 19:45:22,842] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:45:23,157] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:45:23,160] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.321 seconds
+[2020-06-08 19:46:14,905] {scheduler_job.py:154} INFO - Started process (PID=14098) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:46:14,908] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:46:14,908] {logging_mixin.py:112} INFO - [2020-06-08 19:46:14,908] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:46:15,190] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:46:15,193] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.288 seconds
+[2020-06-08 19:47:06,984] {scheduler_job.py:154} INFO - Started process (PID=14142) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:06,993] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:47:06,994] {logging_mixin.py:112} INFO - [2020-06-08 19:47:06,993] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:07,323] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:07,328] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.344 seconds
+[2020-06-08 19:47:59,029] {scheduler_job.py:154} INFO - Started process (PID=14185) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:59,032] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:47:59,032] {logging_mixin.py:112} INFO - [2020-06-08 19:47:59,032] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:59,306] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:47:59,308] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.279 seconds
+[2020-06-08 19:48:51,100] {scheduler_job.py:154} INFO - Started process (PID=14254) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:48:51,111] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:48:51,112] {logging_mixin.py:112} INFO - [2020-06-08 19:48:51,112] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:48:51,398] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:48:51,401] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.302 seconds
+[2020-06-08 19:49:43,144] {scheduler_job.py:154} INFO - Started process (PID=14328) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:49:43,147] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:49:43,147] {logging_mixin.py:112} INFO - [2020-06-08 19:49:43,147] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:49:43,432] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:49:43,435] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.291 seconds
+[2020-06-08 19:50:35,255] {scheduler_job.py:154} INFO - Started process (PID=14379) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:50:35,260] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:50:35,261] {logging_mixin.py:112} INFO - [2020-06-08 19:50:35,260] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:50:35,548] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:50:35,551] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.296 seconds
+[2020-06-08 19:51:49,176] {scheduler_job.py:154} INFO - Started process (PID=14444) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:51:49,190] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:51:49,192] {logging_mixin.py:112} INFO - [2020-06-08 19:51:49,191] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:51:49,536] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:51:49,538] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.363 seconds
+[2020-06-08 19:53:08,270] {scheduler_job.py:154} INFO - Started process (PID=14527) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:53:08,278] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:53:08,279] {logging_mixin.py:112} INFO - [2020-06-08 19:53:08,278] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:53:08,565] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:53:08,568] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.298 seconds
+[2020-06-08 19:54:22,575] {scheduler_job.py:154} INFO - Started process (PID=14609) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:54:22,584] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:54:22,585] {logging_mixin.py:112} INFO - [2020-06-08 19:54:22,585] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:54:22,879] {logging_mixin.py:112} INFO - [2020-06-08 19:54:22,878] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 91, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in percentage_upload
+    ti = kwargs['ti']
+KeyError: 'ti'
+[2020-06-08 19:54:22,879] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:54:22,897] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.322 seconds
+[2020-06-08 19:55:14,618] {scheduler_job.py:154} INFO - Started process (PID=14702) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:55:14,620] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:55:14,620] {logging_mixin.py:112} INFO - [2020-06-08 19:55:14,620] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:55:14,957] {logging_mixin.py:112} INFO - [2020-06-08 19:55:14,956] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 91, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in percentage_upload
+    ti = kwargs['ti']
+KeyError: 'ti'
+[2020-06-08 19:55:14,957] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:55:14,978] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.361 seconds
+[2020-06-08 19:56:06,698] {scheduler_job.py:154} INFO - Started process (PID=14749) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:56:06,709] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:56:06,711] {logging_mixin.py:112} INFO - [2020-06-08 19:56:06,711] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:56:07,079] {logging_mixin.py:112} INFO - [2020-06-08 19:56:07,078] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 91, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in percentage_upload
+    ti = kwargs['ti']
+KeyError: 'ti'
+[2020-06-08 19:56:07,079] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:56:07,100] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.402 seconds
+[2020-06-08 19:57:21,085] {scheduler_job.py:154} INFO - Started process (PID=14852) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:57:21,090] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:57:21,091] {logging_mixin.py:112} INFO - [2020-06-08 19:57:21,091] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:57:21,383] {logging_mixin.py:112} INFO - [2020-06-08 19:57:21,383] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 91, in <module>
+    percentage_upload()
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 85, in percentage_upload
+    ti = kwargs['ti']
+KeyError: 'ti'
+[2020-06-08 19:57:21,384] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:57:21,403] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.318 seconds
+[2020-06-08 19:58:13,133] {scheduler_job.py:154} INFO - Started process (PID=14895) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:58:13,137] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:58:13,138] {logging_mixin.py:112} INFO - [2020-06-08 19:58:13,138] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:58:13,439] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:58:13,450] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.318 seconds
+[2020-06-08 19:59:05,208] {scheduler_job.py:154} INFO - Started process (PID=14972) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:05,215] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:59:05,216] {logging_mixin.py:112} INFO - [2020-06-08 19:59:05,216] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:05,517] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:05,520] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.312 seconds
+[2020-06-08 19:59:57,263] {scheduler_job.py:154} INFO - Started process (PID=15058) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:57,271] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 19:59:57,272] {logging_mixin.py:112} INFO - [2020-06-08 19:59:57,272] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:57,712] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 19:59:57,718] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.455 seconds
+[2020-06-08 20:00:21,816] {scheduler_job.py:154} INFO - Started process (PID=15115) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:00:21,825] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:00:21,826] {logging_mixin.py:112} INFO - [2020-06-08 20:00:21,826] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:00:22,134] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:00:22,137] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.322 seconds
+[2020-06-08 20:01:24,217] {scheduler_job.py:154} INFO - Started process (PID=15313) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:01:24,220] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:01:24,220] {logging_mixin.py:112} INFO - [2020-06-08 20:01:24,220] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:01:24,506] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:01:24,509] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.292 seconds
+[2020-06-08 20:02:26,626] {scheduler_job.py:154} INFO - Started process (PID=15481) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:02:26,629] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:02:26,629] {logging_mixin.py:112} INFO - [2020-06-08 20:02:26,629] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:02:26,905] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:02:26,909] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.282 seconds
+[2020-06-08 20:03:29,113] {scheduler_job.py:154} INFO - Started process (PID=15574) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:29,123] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:03:29,124] {logging_mixin.py:112} INFO - [2020-06-08 20:03:29,124] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:29,409] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:29,412] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.299 seconds
+[2020-06-08 20:03:54,344] {scheduler_job.py:154} INFO - Started process (PID=15651) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:54,353] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:03:54,354] {logging_mixin.py:112} INFO - [2020-06-08 20:03:54,354] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:54,648] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:03:54,651] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.307 seconds
+[2020-06-08 20:04:56,816] {scheduler_job.py:154} INFO - Started process (PID=15720) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:04:56,822] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:04:56,823] {logging_mixin.py:112} INFO - [2020-06-08 20:04:56,822] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:04:57,126] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:04:57,129] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.313 seconds
+[2020-06-08 20:05:59,326] {scheduler_job.py:154} INFO - Started process (PID=15803) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:05:59,335] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:05:59,336] {logging_mixin.py:112} INFO - [2020-06-08 20:05:59,336] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:05:59,659] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:05:59,663] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.336 seconds
+[2020-06-08 20:07:01,828] {scheduler_job.py:154} INFO - Started process (PID=15871) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:01,831] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:07:01,831] {logging_mixin.py:112} INFO - [2020-06-08 20:07:01,831] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:02,150] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:02,153] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.325 seconds
+[2020-06-08 20:07:53,889] {scheduler_job.py:154} INFO - Started process (PID=15994) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:53,892] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:07:53,892] {logging_mixin.py:112} INFO - [2020-06-08 20:07:53,892] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:54,183] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:07:54,186] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.297 seconds
+[2020-06-08 20:08:56,350] {scheduler_job.py:154} INFO - Started process (PID=16326) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:08:56,358] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:08:56,359] {logging_mixin.py:112} INFO - [2020-06-08 20:08:56,358] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:08:56,643] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:08:56,646] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.296 seconds
+[2020-06-08 20:09:48,404] {scheduler_job.py:154} INFO - Started process (PID=16370) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:09:48,407] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:09:48,407] {logging_mixin.py:112} INFO - [2020-06-08 20:09:48,407] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:09:48,699] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:09:48,702] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.298 seconds
+[2020-06-08 20:10:40,477] {scheduler_job.py:154} INFO - Started process (PID=16468) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:10:40,487] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:10:40,487] {logging_mixin.py:112} INFO - [2020-06-08 20:10:40,487] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:10:40,908] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:10:40,912] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.435 seconds
+[2020-06-08 20:11:32,535] {scheduler_job.py:154} INFO - Started process (PID=16506) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:11:32,550] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:11:32,551] {logging_mixin.py:112} INFO - [2020-06-08 20:11:32,551] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:11:32,912] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:11:32,916] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.381 seconds
+[2020-06-08 20:12:35,302] {scheduler_job.py:154} INFO - Started process (PID=16584) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:12:35,307] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:12:35,308] {logging_mixin.py:112} INFO - [2020-06-08 20:12:35,308] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:12:35,742] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:12:35,745] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.443 seconds
+[2020-06-08 20:19:40,070] {scheduler_job.py:154} INFO - Started process (PID=17172) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:19:40,075] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:19:40,076] {logging_mixin.py:112} INFO - [2020-06-08 20:19:40,076] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:19:40,550] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:19:40,553] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.483 seconds
+[2020-06-08 20:20:32,123] {scheduler_job.py:154} INFO - Started process (PID=17228) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:20:32,131] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:20:32,132] {logging_mixin.py:112} INFO - [2020-06-08 20:20:32,132] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:20:32,556] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:20:32,562] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.439 seconds
+[2020-06-08 20:21:24,172] {scheduler_job.py:154} INFO - Started process (PID=17273) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:21:24,180] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:21:24,181] {logging_mixin.py:112} INFO - [2020-06-08 20:21:24,181] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:21:24,602] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:21:24,606] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.434 seconds
+[2020-06-08 20:22:16,222] {scheduler_job.py:154} INFO - Started process (PID=17340) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:22:16,232] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:22:16,233] {logging_mixin.py:112} INFO - [2020-06-08 20:22:16,233] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:22:16,680] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:22:16,683] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.462 seconds
+[2020-06-08 20:23:08,277] {scheduler_job.py:154} INFO - Started process (PID=17395) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:23:08,283] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:23:08,284] {logging_mixin.py:112} INFO - [2020-06-08 20:23:08,284] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:23:08,651] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:23:08,654] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.378 seconds
+[2020-06-08 20:24:00,347] {scheduler_job.py:154} INFO - Started process (PID=17490) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:00,355] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:24:00,356] {logging_mixin.py:112} INFO - [2020-06-08 20:24:00,356] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:00,744] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:00,748] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.401 seconds
+[2020-06-08 20:24:52,382] {scheduler_job.py:154} INFO - Started process (PID=17619) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:52,388] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:24:52,389] {logging_mixin.py:112} INFO - [2020-06-08 20:24:52,389] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:52,870] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:24:52,877] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.495 seconds
+[2020-06-08 20:25:55,212] {scheduler_job.py:154} INFO - Started process (PID=17695) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:25:55,220] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:25:55,221] {logging_mixin.py:112} INFO - [2020-06-08 20:25:55,221] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:25:55,824] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:25:55,828] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.616 seconds
+[2020-06-08 20:26:58,370] {scheduler_job.py:154} INFO - Started process (PID=17772) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:26:58,383] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:26:58,384] {logging_mixin.py:112} INFO - [2020-06-08 20:26:58,384] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:26:58,993] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:26:59,000] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.631 seconds
+[2020-06-08 20:28:01,120] {scheduler_job.py:154} INFO - Started process (PID=17849) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:01,126] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:28:01,127] {logging_mixin.py:112} INFO - [2020-06-08 20:28:01,127] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:01,503] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:01,508] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.388 seconds
+[2020-06-08 20:28:53,184] {scheduler_job.py:154} INFO - Started process (PID=17898) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:53,198] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:28:53,199] {logging_mixin.py:112} INFO - [2020-06-08 20:28:53,198] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:53,581] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:28:53,584] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.400 seconds
+[2020-06-08 20:29:45,240] {scheduler_job.py:154} INFO - Started process (PID=17951) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:29:45,261] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:29:45,262] {logging_mixin.py:112} INFO - [2020-06-08 20:29:45,262] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:29:45,665] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:29:45,668] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.428 seconds
+[2020-06-08 20:30:37,289] {scheduler_job.py:154} INFO - Started process (PID=18010) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:30:37,308] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:30:37,310] {logging_mixin.py:112} INFO - [2020-06-08 20:30:37,310] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:30:37,692] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:30:37,696] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.408 seconds
+[2020-06-08 20:31:29,333] {scheduler_job.py:154} INFO - Started process (PID=18065) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:31:29,348] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:31:29,350] {logging_mixin.py:112} INFO - [2020-06-08 20:31:29,350] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:31:29,727] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:31:29,734] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.401 seconds
+[2020-06-08 20:32:21,379] {scheduler_job.py:154} INFO - Started process (PID=18118) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:32:21,391] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:32:21,392] {logging_mixin.py:112} INFO - [2020-06-08 20:32:21,392] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:32:21,784] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:32:21,788] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.409 seconds
+[2020-06-08 20:33:13,440] {scheduler_job.py:154} INFO - Started process (PID=18165) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:33:13,456] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:33:13,458] {logging_mixin.py:112} INFO - [2020-06-08 20:33:13,457] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:33:13,849] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:33:13,852] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.413 seconds
+[2020-06-08 20:34:05,498] {scheduler_job.py:154} INFO - Started process (PID=18224) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:05,516] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:34:05,518] {logging_mixin.py:112} INFO - [2020-06-08 20:34:05,517] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:05,868] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:05,872] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.374 seconds
+[2020-06-08 20:34:57,550] {scheduler_job.py:154} INFO - Started process (PID=18287) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:57,568] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:34:57,570] {logging_mixin.py:112} INFO - [2020-06-08 20:34:57,570] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:57,968] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:34:57,972] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.422 seconds
+[2020-06-08 20:35:49,587] {scheduler_job.py:154} INFO - Started process (PID=18347) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:35:49,597] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:35:49,599] {logging_mixin.py:112} INFO - [2020-06-08 20:35:49,598] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:35:50,009] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:35:50,015] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.428 seconds
+[2020-06-08 20:36:41,650] {scheduler_job.py:154} INFO - Started process (PID=18398) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:36:41,658] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:36:41,659] {logging_mixin.py:112} INFO - [2020-06-08 20:36:41,659] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:36:42,058] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:36:42,061] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.411 seconds
+[2020-06-08 20:37:33,693] {scheduler_job.py:154} INFO - Started process (PID=18455) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:37:33,699] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:37:33,701] {logging_mixin.py:112} INFO - [2020-06-08 20:37:33,700] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:37:34,167] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:37:34,174] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.482 seconds
+[2020-06-08 20:38:25,731] {scheduler_job.py:154} INFO - Started process (PID=18512) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:38:25,737] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:38:25,737] {logging_mixin.py:112} INFO - [2020-06-08 20:38:25,737] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:38:26,207] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:38:26,212] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.481 seconds
+[2020-06-08 20:39:17,802] {scheduler_job.py:154} INFO - Started process (PID=18594) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:39:17,810] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:39:17,811] {logging_mixin.py:112} INFO - [2020-06-08 20:39:17,810] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:39:18,106] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:39:18,109] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.308 seconds
+[2020-06-08 20:40:09,864] {scheduler_job.py:154} INFO - Started process (PID=18653) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:40:09,872] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:40:09,874] {logging_mixin.py:112} INFO - [2020-06-08 20:40:09,873] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:40:10,167] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:40:10,170] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.307 seconds
+[2020-06-08 20:41:12,396] {scheduler_job.py:154} INFO - Started process (PID=18737) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:41:12,405] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:41:12,406] {logging_mixin.py:112} INFO - [2020-06-08 20:41:12,406] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:41:12,809] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:41:12,813] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.417 seconds
+[2020-06-08 20:42:15,409] {scheduler_job.py:154} INFO - Started process (PID=18799) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:42:15,417] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:42:15,418] {logging_mixin.py:112} INFO - [2020-06-08 20:42:15,418] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:42:15,704] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:42:15,707] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.298 seconds
+[2020-06-08 20:43:18,363] {scheduler_job.py:154} INFO - Started process (PID=18950) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:43:18,378] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:43:18,379] {logging_mixin.py:112} INFO - [2020-06-08 20:43:18,379] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:43:18,724] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:43:18,727] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.364 seconds
+[2020-06-08 20:44:20,764] {scheduler_job.py:154} INFO - Started process (PID=19027) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:44:20,768] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:44:20,768] {logging_mixin.py:112} INFO - [2020-06-08 20:44:20,768] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:44:21,057] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:44:21,060] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.296 seconds
+[2020-06-08 20:45:23,263] {scheduler_job.py:154} INFO - Started process (PID=19138) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:45:23,269] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:45:23,270] {logging_mixin.py:112} INFO - [2020-06-08 20:45:23,270] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:45:23,560] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:45:23,563] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.300 seconds
+[2020-06-08 20:46:25,859] {scheduler_job.py:154} INFO - Started process (PID=19224) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:46:25,867] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:46:25,867] {logging_mixin.py:112} INFO - [2020-06-08 20:46:25,867] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:46:26,173] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:46:26,176] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.317 seconds
+[2020-06-08 20:47:17,923] {scheduler_job.py:154} INFO - Started process (PID=19310) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:47:17,928] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:47:17,929] {logging_mixin.py:112} INFO - [2020-06-08 20:47:17,929] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:47:17,932] {logging_mixin.py:112} INFO - [2020-06-08 20:47:17,932] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:47:17,932] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:47:17,951] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.028 seconds
+[2020-06-08 20:48:09,974] {scheduler_job.py:154} INFO - Started process (PID=19372) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:48:09,978] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:48:09,979] {logging_mixin.py:112} INFO - [2020-06-08 20:48:09,979] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:48:09,982] {logging_mixin.py:112} INFO - [2020-06-08 20:48:09,982] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:48:09,983] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:48:10,004] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.030 seconds
+[2020-06-08 20:49:02,053] {scheduler_job.py:154} INFO - Started process (PID=19441) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:02,058] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:49:02,059] {logging_mixin.py:112} INFO - [2020-06-08 20:49:02,059] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:02,062] {logging_mixin.py:112} INFO - [2020-06-08 20:49:02,062] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:49:02,062] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:02,088] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.035 seconds
+[2020-06-08 20:49:54,087] {scheduler_job.py:154} INFO - Started process (PID=19503) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:54,090] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:49:54,090] {logging_mixin.py:112} INFO - [2020-06-08 20:49:54,090] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:54,093] {logging_mixin.py:112} INFO - [2020-06-08 20:49:54,092] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:49:54,093] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:49:54,110] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.023 seconds
+[2020-06-08 20:50:46,165] {scheduler_job.py:154} INFO - Started process (PID=19577) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:50:46,173] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:50:46,174] {logging_mixin.py:112} INFO - [2020-06-08 20:50:46,173] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:50:46,177] {logging_mixin.py:112} INFO - [2020-06-08 20:50:46,176] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:50:46,177] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:50:46,199] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.033 seconds
+[2020-06-08 20:51:38,257] {scheduler_job.py:154} INFO - Started process (PID=19649) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:51:38,263] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:51:38,264] {logging_mixin.py:112} INFO - [2020-06-08 20:51:38,263] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:51:38,268] {logging_mixin.py:112} INFO - [2020-06-08 20:51:38,267] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 95
+    
+    ^
+SyntaxError: invalid syntax
+[2020-06-08 20:51:38,269] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:51:38,292] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.035 seconds
+[2020-06-08 20:52:30,289] {scheduler_job.py:154} INFO - Started process (PID=19729) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:52:30,299] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:52:30,300] {logging_mixin.py:112} INFO - [2020-06-08 20:52:30,300] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:52:30,603] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:52:30,615] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.326 seconds
+[2020-06-08 20:53:32,820] {scheduler_job.py:154} INFO - Started process (PID=19808) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:53:32,835] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:53:32,836] {logging_mixin.py:112} INFO - [2020-06-08 20:53:32,836] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:53:33,152] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:53:33,155] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.335 seconds
+[2020-06-08 20:54:35,509] {scheduler_job.py:154} INFO - Started process (PID=19898) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:54:35,518] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:54:35,519] {logging_mixin.py:112} INFO - [2020-06-08 20:54:35,519] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:54:35,820] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:54:35,823] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.314 seconds
+[2020-06-08 20:55:37,977] {scheduler_job.py:154} INFO - Started process (PID=19988) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:55:37,983] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:55:37,984] {logging_mixin.py:112} INFO - [2020-06-08 20:55:37,984] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:55:38,320] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:55:38,323] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.346 seconds
+[2020-06-08 20:56:30,019] {scheduler_job.py:154} INFO - Started process (PID=20051) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:56:30,026] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:56:30,027] {logging_mixin.py:112} INFO - [2020-06-08 20:56:30,027] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:56:30,329] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:56:30,332] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.313 seconds
+[2020-06-08 20:57:22,100] {scheduler_job.py:154} INFO - Started process (PID=20154) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:57:22,110] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:57:22,111] {logging_mixin.py:112} INFO - [2020-06-08 20:57:22,110] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:57:22,499] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:57:22,503] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.403 seconds
+[2020-06-08 20:58:14,141] {scheduler_job.py:154} INFO - Started process (PID=20231) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:58:14,146] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:58:14,146] {logging_mixin.py:112} INFO - [2020-06-08 20:58:14,146] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:58:14,491] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:58:14,494] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.353 seconds
+[2020-06-08 20:59:06,215] {scheduler_job.py:154} INFO - Started process (PID=20308) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:06,224] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:59:06,225] {logging_mixin.py:112} INFO - [2020-06-08 20:59:06,225] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:06,511] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:06,514] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.299 seconds
+[2020-06-08 20:59:58,280] {scheduler_job.py:154} INFO - Started process (PID=20422) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:58,291] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 20:59:58,293] {logging_mixin.py:112} INFO - [2020-06-08 20:59:58,292] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:58,632] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 20:59:58,635] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.355 seconds
+[2020-06-08 21:00:50,330] {scheduler_job.py:154} INFO - Started process (PID=20545) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:00:50,339] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:00:50,339] {logging_mixin.py:112} INFO - [2020-06-08 21:00:50,339] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:00:50,633] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:00:50,636] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.306 seconds
+[2020-06-08 21:01:42,384] {scheduler_job.py:154} INFO - Started process (PID=20657) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:01:42,386] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:01:42,386] {logging_mixin.py:112} INFO - [2020-06-08 21:01:42,386] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:01:42,667] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:01:42,670] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.287 seconds
+[2020-06-08 21:02:34,460] {scheduler_job.py:154} INFO - Started process (PID=20772) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:02:34,474] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:02:34,474] {logging_mixin.py:112} INFO - [2020-06-08 21:02:34,474] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:02:36,175] {logging_mixin.py:112} INFO - [2020-06-08 21:02:36,174] {dagbag.py:239} ERROR - Failed to import: /home/nineleaps/airflow/dags/airflow_tasks.py
+Traceback (most recent call last):
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/airflow/models/dagbag.py", line 236, in process_file
+    m = imp.load_source(mod_name, filepath)
+  File "/home/nineleaps/airflow/dags/airflow_tasks.py", line 32, in <module>
+    client.create_dataset("covid19")
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/google/cloud/bigquery/client.py", line 461, in create_dataset
+    retry, method="POST", path=path, data=data, timeout=timeout
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/google/cloud/bigquery/client.py", line 556, in _call_api
+    return call()
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/google/api_core/retry.py", line 286, in retry_wrapped_func
+    on_error=on_error,
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/google/api_core/retry.py", line 184, in retry_target
+    return target()
+  File "/home/nineleaps/.local/lib/python2.7/site-packages/google/cloud/_http.py", line 423, in api_request
+    raise exceptions.from_http_response(response)
+Conflict: 409 POST https://bigquery.googleapis.com/bigquery/v2/projects/airflow29thmay/datasets: Already Exists: Dataset airflow29thmay:covid19
+[2020-06-08 21:02:36,175] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:02:36,204] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 1.744 seconds
+[2020-06-08 21:03:26,548] {scheduler_job.py:154} INFO - Started process (PID=20847) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:03:26,554] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:03:26,555] {logging_mixin.py:112} INFO - [2020-06-08 21:03:26,555] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:03:26,847] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:03:26,868] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.320 seconds
+[2020-06-08 21:04:18,573] {scheduler_job.py:154} INFO - Started process (PID=20941) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:04:18,577] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:04:18,577] {logging_mixin.py:112} INFO - [2020-06-08 21:04:18,577] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:04:18,860] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:04:18,863] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.290 seconds
+[2020-06-08 21:05:10,647] {scheduler_job.py:154} INFO - Started process (PID=20989) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:05:10,656] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:05:10,657] {logging_mixin.py:112} INFO - [2020-06-08 21:05:10,657] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:05:10,985] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:05:10,988] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.342 seconds
+[2020-06-08 21:06:02,724] {scheduler_job.py:154} INFO - Started process (PID=21062) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:02,728] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:06:02,729] {logging_mixin.py:112} INFO - [2020-06-08 21:06:02,728] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:03,030] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:03,033] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.309 seconds
+[2020-06-08 21:06:54,751] {scheduler_job.py:154} INFO - Started process (PID=21142) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:54,756] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:06:54,756] {logging_mixin.py:112} INFO - [2020-06-08 21:06:54,756] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:55,076] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:06:55,080] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.328 seconds
+[2020-06-08 21:07:46,833] {scheduler_job.py:154} INFO - Started process (PID=21206) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:07:46,842] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:07:46,843] {logging_mixin.py:112} INFO - [2020-06-08 21:07:46,843] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:07:47,138] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:07:47,141] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.309 seconds
+[2020-06-08 21:08:38,931] {scheduler_job.py:154} INFO - Started process (PID=21262) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:08:38,939] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:08:38,940] {logging_mixin.py:112} INFO - [2020-06-08 21:08:38,940] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:08:39,332] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:08:39,335] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.405 seconds
+[2020-06-08 21:09:30,942] {scheduler_job.py:154} INFO - Started process (PID=21327) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:09:30,945] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:09:30,946] {logging_mixin.py:112} INFO - [2020-06-08 21:09:30,946] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:09:31,271] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:09:31,274] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.332 seconds
+[2020-06-08 21:10:23,018] {scheduler_job.py:154} INFO - Started process (PID=21378) to work on /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:10:23,031] {scheduler_job.py:1562} INFO - Processing file /home/nineleaps/airflow/dags/airflow_tasks.py for tasks to queue
+[2020-06-08 21:10:23,032] {logging_mixin.py:112} INFO - [2020-06-08 21:10:23,032] {dagbag.py:396} INFO - Filling up the DagBag from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:10:23,372] {scheduler_job.py:1576} WARNING - No viable dags retrieved from /home/nineleaps/airflow/dags/airflow_tasks.py
+[2020-06-08 21:10:23,375] {scheduler_job.py:162} INFO - Processing /home/nineleaps/airflow/dags/airflow_tasks.py took 0.357 seconds
