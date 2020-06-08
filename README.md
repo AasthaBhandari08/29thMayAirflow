@@ -11,25 +11,33 @@ Apache Airflow Python version 3 Google cloud platform
 
 
 Installation
+
 Link - https://airflow.apache.org/docs/stable/start.html
 
 1.**mkdir airflow**
 
-but you can lay foundation somewhere else if you prefer (optional) export 2.**AIRFLOW_HOME=~/airflow**
+but you can lay foundation somewhere else if you prefer (optional) 
+
+2.export **AIRFLOW_HOME=~/airflow**
 
 #install from pypi using pip
+
 3.**pip install apache-airflow**
 
 #initialize the database
+
 4.**airflow initdb**
 
 #start the web server, default port is 8080
+
 5.**airflow webserver**
 
 #start the scheduler
+
 6.**airflow scheduler**
 
 #google cloud platform Bigquery
+
 1. **pip install --upgrade google-cloud-bigquery Apache**
 
 #visit localhost:8080 in the browser and enable the example dag in the home page
